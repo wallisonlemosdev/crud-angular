@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bateria Samsung J5 prime",
+      "price": 28.9
+    },
+    {
+      "id": 2,
+      "name": "Bateria Samsung A10s",
+      "price": 38.99
+    },
+    {
+      "id": 3,
+      "name": "Conector de carga Samsung J5 prime",
+      "price": 2.99
+    },
+    {
+      "id": 4,
+      "name": "Frontal J5 prime original",
+      "price": 289.99
+    }
+  ]
+}
