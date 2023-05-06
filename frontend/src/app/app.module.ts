@@ -14,6 +14,7 @@ import { MatCardModule } from '@angular/material/card';
 import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
 import { HomeComponent } from './views/home/home.component';
+import { MatSnackBarModule } from '@angular/material/snack-bar'
 import { ProductCrudComponent } from './views/product-crud/product-crud.component';
 import { AppRoutingModule } from './app-routing.module';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
@@ -36,6 +37,7 @@ import { ProductCreateComponent } from './components/product/product-create/prod
     MatListModule,
     MatCardModule,
     MatButtonModule,
+    MatSnackBarModule,
     AppRoutingModule
   ],
   providers: [],
